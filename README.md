@@ -16,7 +16,7 @@
 
 <div align="center">
   <h3>Hey. I'm Felipe 👋</h3>
-<p>Fullstack developer who seeks excellence in every line of code I write.</p>
+<p>a developer who seeks excellence in every line of code I write.</p>
  </div> </br>
 
 <div align="center">
