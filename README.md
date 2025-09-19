@@ -1,5 +1,5 @@
 
-![Alt text](./fehbannertest.png)
+![Alt text](./fehbanner.png)
 
 <div align="center">
 <a href="https://www.fehmatos.com/" target="_blank">
